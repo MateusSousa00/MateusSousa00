@@ -1,14 +1,14 @@
 # Who is Mateus Lima ?
 
-I'm a Brazillian man, from Z generation, recent graduated and with a lot of energy to burn.
+I'm a Brazillian man, recent graduated and with a lot of energy to burn.
 
 I mean, for real, I'm really addicted to sports, maybe this is what gives me energy to code and learn.
 
-And I have purpose... currently I'm a **Backend developer Jr** but I'll not stop till I become **Fullstack senior**, feel free to follow me in this journey!
+And I have purpose... currently I'm a **Backend developer Jr** but I'll not stop till I become **Fullstack senior** or something close, feel free to follow me in this journey!
 
 ## Let's talk about code...
 
-I started coding at the end of the last year and my first language was M! Yes, I was wondering to work on data analystics or Power BI consultant but a different oportunity happened to me, a possibility to work in a emergent startup here in Brazil called LIQI!
+I started coding at the end of the last year and my first language was M! Yes, I was wondering to work on data analystics or Power BI consultant but a different oportunity happened to me, a possibility to work in a emergent fintech here in Brazil!
 
 It was a wonderful experience there, I learned a lot from my seniors and tech-lead, knowledge that made me a better man and better professional!
 
@@ -27,14 +27,15 @@ It was a wonderful experience there, I learned a lot from my seniors and tech-le
 - Linux
 - SQL
 - Node + Express
+- HTML
+- CSS
 
 *All below I'm still learning or will start to*
 
 - AWS
 - JWT
 - Python
-- HTML
-- CSS
+- C#
 
 ### Feel free to call me anytime you want
 
