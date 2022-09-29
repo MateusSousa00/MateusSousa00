@@ -4,7 +4,7 @@ I'm a Brazillian man, recent graduated and with a lot of energy to burn.
 
 I mean, for real, I'm really addicted to sports, maybe this is what gives me energy to code and learn.
 
-And I have purpose... currently I'm a **Backend developer Jr** but I'll not stop till I become **Fullstack senior** or something close, feel free to follow me in this journey!
+And I have purpose... I don't wanna be only a backend forever. I want to understand everything possible about software development (or something close), like frontend, mobile, AI, Big Data, Cloud... fell free to watch me in this journey.
 
 ## Let's talk about code...
 
