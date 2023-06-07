@@ -1,44 +1,43 @@
-# Who is Mateus Lima ?
+## Hi...
 
-I'm a Brazillian man, recent graduated and with a lot of energy to burn.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU1Zjk5YmZhODliNDg1OThjMDM2YzI3YjljMDM1NWJmZDIwODNkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position: absolute; top: 0; left: 0; border: none;" allowfullscreen="true" frameborder="0">
+</div>
 
-I mean, for real, I'm really addicted to sports, maybe this is what gives me energy to code and learn.
+## My name is Mateus! 🤓
 
-And I have purpose... I don't wanna be only a backend forever. I want to understand everything possible about software development (or something close), like frontend, mobile, AI, Big Data, Cloud... fell free to watch me in this journey.
+-----
 
-## Let's talk about code...
+I am  a highly skilled software engineer with 1 year and a half of intense experience in the industry, with a passion for coding that grows every day.
 
-I started coding at the end of the last year and my first language was M! Yes, I was wondering to work on data analystics or Power BI consultant but a different oportunity happened to me, a possibility to work in a emergent fintech here in Brazil!
+Throughout my career, I have developed a strong foundation in programming languages such as Typescript and Python. I have also fained valuable experience in software development methodologies such as Agile and Scrum. 
 
-It was a wonderful experience there, I learned a lot from my seniors and tech-lead, knowledge that made me a better man and better professional!
+Additionally, I have extensive experience with designing and implementing complex software systems, developing APIs, and building scalable applications.
 
-### Here are some things that I used there!
-- Javascript / Typescript
-- GraphQL
-- NodeJs
-- NestJs (prisma and jest)
-- Postgresql
-- Docker
-- Git
+----
 
-### Here are some things that I know and I'm learning!
-- All above
-- Power BI
-- Linux
-- SQL
-- Node + Express
-- HTML
-- CSS
+## My Skills...
 
-*All below I'm still learning or will start to*
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?raw=true" alt="Python"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png?raw=true" alt="AWS"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?raw=true" alt="Docker"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png?raw=true" alt="Redis"/></code>
 
-- AWS
-- JWT
-- Python
-- C#
 
-### Feel free to call me anytime you want
+----
 
-email me! [mateus.lsousa00@gmail.com](https://criarmeulink.com.br/u/1661868734)!
-or text me on [Telegram](https://t.me/Mateuslima_0)!
-or connect to me on [LinkedIn](https://www.linkedin.com/in/mateus-lima-95973a162/)!
+Reach me out at [LinkedIn](https://www.linkedin.com/in/mateussousa00/) to a better and detailed description about my experience as software engineer, education and certifications!
+
+God I love my job! Wanna see more? check my repositories! Feel free to reach me to collaborate on open-source projects too ;)
+
+Email me! [mateus.lsousa00@gmail.com](https://criarmeulink.com.br/u/1661868734)
+or connect to me on [LinkedIn](https://www.linkedin.com/in/mateussousa00/)!
