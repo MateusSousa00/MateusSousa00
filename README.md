@@ -2,9 +2,13 @@
 
 -----
 
-I am  a highly skilled software engineer with 1 year and a half of intense experience in the industry, with a passion for coding that grows every day.
+I am  a highly skilled software engineer with intense experience in the industry, also my passion for coding grows every day.
 
 Throughout my career, I have developed a strong foundation in programming languages such as Typescript and Python. I have also fained valuable experience in software development methodologies such as Agile and Scrum. 
+
+Now I'm refactoring code and implementing good practices with... Laravel and Kotlin too!
+
+Today I'm studying postgraduate Software Architecture, I'm very excited for this.
 
 Additionally, I have extensive experience with designing and implementing complex software systems, developing APIs, and building scalable applications.
 
