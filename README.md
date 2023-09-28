@@ -1,9 +1,3 @@
-## Hi...
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU1Zjk5YmZhODliNDg1OThjMDM2YzI3YjljMDM1NWJmZDIwODNkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position: absolute; top: 0; left: 0; border: none;" allowfullscreen="true" frameborder="0">
-</div>
-
 ## My name is Mateus! 🤓
 
 -----
